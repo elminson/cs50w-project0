@@ -38,8 +38,8 @@ img {
 
 /* For width 400px and larger: */
 @media only screen and (min-width: 400px) {
-    body {
+    table {
 
-        background-image: url('image.jpg');
+        background-color: lightsalmon;
     }
 }
